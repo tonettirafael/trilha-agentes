@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# artefatos gerados pelas aulas
+memoria_agente.json
+resultados_eval.jsonl
+
+# config local do Claude Code (por maquina)
+.claude/settings.local.json
